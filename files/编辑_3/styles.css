@@ -1,0 +1,144 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1100px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u12437_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1101px;
+  height:797px;
+}
+#u12437 {
+  position:absolute;
+  left:0px;
+  top:-7px;
+  width:1100px;
+  height:796px;
+}
+#u12438 {
+  position:absolute;
+  left:2px;
+  top:390px;
+  width:1096px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12439_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:8px;
+  height:41px;
+}
+#u12439 {
+  position:absolute;
+  left:7px;
+  top:5px;
+  width:7px;
+  height:40px;
+}
+#u12440 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:3px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12441_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:301px;
+  height:41px;
+}
+#u12441 {
+  position:absolute;
+  left:24px;
+  top:5px;
+  width:300px;
+  height:40px;
+  font-size:16px;
+  text-align:left;
+}
+#u12442 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:296px;
+  word-wrap:break-word;
+}
+#u12443_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:711px;
+  height:657px;
+}
+#u12443 {
+  position:absolute;
+  left:195px;
+  top:55px;
+  width:710px;
+  height:656px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u12444 {
+  position:absolute;
+  left:2px;
+  top:320px;
+  width:706px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12445_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:376px;
+  height:614px;
+}
+#u12445 {
+  position:absolute;
+  left:363px;
+  top:67px;
+  width:375px;
+  height:613px;
+}
+#u12446 {
+  position:absolute;
+  left:2px;
+  top:298px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12447 {
+  position:absolute;
+  left:405px;
+  top:108px;
+  width:100px;
+  height:564px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u12447_ann {
+  position:absolute;
+  left:498px;
+  top:104px;
+  width:1px;
+  height:1px;
+}
